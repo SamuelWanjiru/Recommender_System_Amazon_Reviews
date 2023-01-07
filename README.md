@@ -25,5 +25,6 @@ There are mainly 6 types of the recommendations systems:
 4. Collaberative Filtering:- It is based on assumption that people like things similar to other things they like, and things that are liked by other people with similar taste. it is mainly of two types: a) User-User b) Item -Item.
 5. Hybrid Approaches:- This system approach is to combine collaborative filtering, content-based filtering, and other approaches.
 6. Association rule mining :- Association rules capture the relationships between items based on their patterns of co-occurrence across transactions.
-7. 
+
+
 For more information about recommender systems, click [here](https://en.wikipedia.org/wiki/Recommender_system#:~:text=A%20recommender%20system%2C%20or%20a,pertinent%20to%20a%20particular%20user.).
